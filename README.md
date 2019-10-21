@@ -18,3 +18,5 @@ To change to ELMo embeddings, run the Keras_Elmo file instead
 Keras_Elmo adapts the model found at https://github.com/nxs5899/Named-Entity-Recognition_DeepLearning-keras
 
 ******
+
+Yiyang Gaos' code can be found at https://github.com/gyy150/Thesis_PipeLine_2. The actual output is too big to upload so his pipeline will need to tto be run fist to obtain the output before this one can start processing.
