@@ -19,4 +19,4 @@ Keras_Elmo adapts the model found at https://github.com/nxs5899/Named-Entity-Rec
 
 ******
 
-Yiyang Gaos' code can be found at https://github.com/gyy150/Thesis_PipeLine_2. The output of the NLP pipeline as well as the maintenance work order themselves will need to be obtained separately.
+Yiyang Gaos' code can be found at https://github.com/gyy150/Thesis_PipeLine_2. The output of the NLP pipeline as well as the raw maintenance work order data will need to be obtained separately.
