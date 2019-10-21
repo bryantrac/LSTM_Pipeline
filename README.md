@@ -1,9 +1,13 @@
 # LSTM_Pipeline
 
 The pipeline is ran in the order:
+
 1.Tagging-PreProcessing.ipynb
+
 2.Tagging Model.ipynb
+
 3.FuncLoc Prediction.ipynb
+
 
 To change to ELMo embeddings, run the Keras_Elmo file instead
 
