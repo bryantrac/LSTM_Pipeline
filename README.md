@@ -7,5 +7,7 @@ The pipeline is ran in the order:
 
 To change to ELMo embeddings, run the Keras_Elmo file instead
 
+
 2.Tagging Model.ipynb adapts the model found at https://allennlp.org/tutorials
+
 Keras_Elmo adapts the model found at https://github.com/nxs5899/Named-Entity-Recognition_DeepLearning-keras
